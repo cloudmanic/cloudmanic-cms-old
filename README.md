@@ -32,6 +32,7 @@ ln -s ../application/sparks/cloudmanic-cms/CMS-VERSION-GOES-HERE/assets/ cms
 
 ## Setting Up The Auto Loader
 
+```
 /*
 | -------------------------------------------------------------------
 |  Native Auto-load
@@ -57,16 +58,19 @@ function __autoload($class)
 		}
 	}
 }
+```
 
 ## Setting up the control panel. 
 
 Create a controller name "cp.php".
 
+```
 <?php if(! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Cp extends CMS_Controller { }
 
 /* End File */
+```
 
 
 ## Info on Buckets.
