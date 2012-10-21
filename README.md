@@ -1,3 +1,17 @@
+
+*DO NOT USE THIS PROJECT*
+
+We move moved to a composer based system over here https://github.com/cloudmanic/cloudmanic-cms
+
+We keep this project arround because we have a few legancy systems we are still maintaining. 
+
+
+
+
+
+
+
+
 ## Goals of the project.
 
 As developers we hate stuffing a site into a content management system. It is not natural to us.  We are always altering our libraries just to work with different systems. We are learning the different functions that require a CMS to work. We are dealing with the custom routing rules of the particular CMS. Cloudmanic CMS lets you develop the way you want to develop. Cloudmanic CMS gives you a robust admin panel on top of your code base. 
